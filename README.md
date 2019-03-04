@@ -18,7 +18,7 @@ No changes were made in the cmake configuration. A new file was added [src/splin
 ### The car is able to drive at least 4.32 miles without incident.
 I ran the simulator for 12 miles without incidents:
 
-![12 miles](images/12_miles.png)
+![12 miles](Images/12_miles.png)
 
 ### The car drives according to the speed limit.
 No speed limit red message was seen.
